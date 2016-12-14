@@ -3,7 +3,6 @@
 
 ##
 ## Grabs all the database name and dumps to each file.
-## TODO change by tables
 ##      EX) database/table.sql
 ##      This way each table can be recovered independently
 ##
